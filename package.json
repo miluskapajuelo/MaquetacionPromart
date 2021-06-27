@@ -1,0 +1,24 @@
+{
+  "name": "maquetacionpromart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miluskapajuelo/MaquetacionPromart.git"
+  },
+  "author": "miluskapajuelo <miluskapajuelo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miluskapajuelo/MaquetacionPromart/issues"
+  },
+  "homepage": "https://github.com/miluskapajuelo/MaquetacionPromart#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3",
+    "serve": "^12.0.0"
+  }
+}
